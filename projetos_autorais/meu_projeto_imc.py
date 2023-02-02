@@ -1,3 +1,4 @@
+
 # Exercicio calculo  IMC
 # IMC = peso / (altura x altura)
 print('Bem vindo ao cálculo de IMC, por favor preencha os dados a seguir como mostrado nos exemplos.')
